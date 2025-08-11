@@ -1,0 +1,8 @@
+joblib
+numpy
+scikit-learn
+matplotlib
+opencv-python
+scipy
+pillow
+jupyter
